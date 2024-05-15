@@ -17,8 +17,8 @@ apple acres :apple: :green_apple:
 
 
 ## About The App :newspaper:
-[apple_acres] [Is a continuation of a friends storefront application project "AppleAcres".
-- Her app can be found here -> https://github.com/lindsaymergy/AppleAcres](#about-the-app)
+[apple_acres] [Is a continuation of Lindsay Mergy's storefront application project "AppleAcres".
+- Her app can be found here -> https://github.com/lindsaymergy/AppleAcres](#about-the-app)]
 
 
 ## Approach :memo:
