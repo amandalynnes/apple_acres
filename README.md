@@ -9,13 +9,11 @@ apple acres :apple: :green_apple:
 ## Table of Content: :open_book:
 
 - [About The App](#about-the-app)
+- [Approach](#approach)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [Setup](#setup)
-- [Approach](#approach)
 - [Status](#status)
-- [Credits](#credits)
-- [License](#license)
+- [Setup](#setup)
 
 
 ## About The App :newspaper:
@@ -24,7 +22,6 @@ apple acres :apple: :green_apple:
 
 
 ## Approach :memo:
-
 My goal is to build upon the storefront by adding a cart icon, and the ability to add or remove items to the cart.
 
 
@@ -32,12 +29,12 @@ My goal is to build upon the storefront by adding a cart icon, and the ability t
 `![Before](public/images/Screenshot 2024-05-15 at 9.49.17 AM.png)`
 
 
-## Status :wrench:
-My add-ons to apple_acres are still in progress.
-
-
 ## Technologies :toolbox:
 I am utilizing `html`, `css`, `javascript`, `react`, ...
+
+
+## Status :wrench:
+My add-ons to apple_acres are still in progress.
 
 
 ## Setup
@@ -65,7 +62,7 @@ I am utilizing `html`, `css`, `javascript`, `react`, ...
     Runs the UI tests in the Cypress Test Runner.
 
 
-Enjoy! 
+## Happy Coding! 
 
 
 
