@@ -28,7 +28,8 @@ My goal is to build upon the storefront by adding a cart icon, and the ability t
 ## Screenshots :chart_with_upwards_trend:
 
   ## Before
-  public/images/Screenshot 2024-05-15 at 9.49.17 AM.png
+  ![Apple Acres webstore displaying farm fresh goods. Honey in a jar shown with product information.](public/images/Screenshot 2024-05-15 at 9.49.17 AM.png? 
+  raw=true "Apple Acres storefront")
 
 
 ## Technologies :toolbox:
