@@ -17,8 +17,8 @@ apple acres :apple: :green_apple:
 
 
 ## About The App :newspaper:
-[apple_acres] [Is a continuation of Lindsay Mergy's storefront application project "AppleAcres".
-- Her app can be found here -> https://github.com/lindsaymergy/AppleAcres](#about-the-app)]
+This project is built off of Lindsay Mergy's storefront application project "AppleAcres".
+- Her app can be found here -> https://github.com/lindsaymergy/AppleAcres
 
 
 ## Approach :memo:
@@ -26,7 +26,9 @@ My goal is to build upon the storefront by adding a cart icon, and the ability t
 
 
 ## Screenshots :chart_with_upwards_trend:
-`![Before](public/images/Screenshot 2024-05-15 at 9.49.17 AM.png)`
+
+  ## Before
+  public/images/Screenshot 2024-05-15 at 9.49.17 AM.png
 
 
 ## Technologies :toolbox:
