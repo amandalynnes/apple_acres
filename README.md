@@ -1,4 +1,7 @@
-# View the live version of the site [here!](https://lindsaymergy.github.io/apple_acres/)
+# Progress Pictures 
+
+Before
+public/images/Screenshot 2024-05-15 at 9.49.17 AM.png
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
