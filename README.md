@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 apple acres :apple: :green_apple:
 
 
-## Table of Content: :book: :open_book:
+## Table of Content: :open_book:
 
 - [About The App](#about-the-app)
 - [Screenshots](#screenshots)
@@ -23,7 +23,7 @@ apple acres :apple: :green_apple:
 - Her app can be found here -> https://github.com/lindsaymergy/AppleAcres](#about-the-app)
 
 
-## Approach :memo: :pencil:
+## Approach :memo:
 
 My goal is to build upon the storefront by adding a cart icon, and the ability to add or remove items to the cart.
 
